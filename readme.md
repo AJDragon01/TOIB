@@ -43,6 +43,7 @@ $ su user-{Egorov.Y.A}
 $ touch /home/super-{Egorov.Y.A}/test_file.txt
 $ rm /home/super-{Egorov.Y.A}/test_file.txt
 
+
 ```
 
 
