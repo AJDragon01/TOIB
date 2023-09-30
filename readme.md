@@ -45,6 +45,6 @@ $ rm /home/super-{Egorov.Y.A}/test_file.txt
 
 ```
 
-![Скриншот 1 - Окно программы Oracle VM VirtualBox ](https://imgur.com/a/HUDfWIX)
-![Скриншот 2 - Команды в терминале ](https://imgur.com/R12WwSh)
+![Скриншот 1 - Окно программы Oracle VM VirtualBox ](https://imgur.com/a/HUDfWIX.jpg)
+![Скриншот 2 - Команды в терминале ](https://imgur.com/R12WwSh.jpg)
 
