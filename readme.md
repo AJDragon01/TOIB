@@ -43,11 +43,11 @@ $ su user-{Egorov.Y.A}
 $ touch /home/super-{Egorov.Y.A}/test_file.txt
 $ rm /home/super-{Egorov.Y.A}/test_file.txt
 
-
 ```
 
+![Скриншот 1 - Окно программы Oracle VM VirtualBox ](https://imgur.com/a/HUDfWIX)
+![Скриншот 2 - Команды в терминале ](https://imgur.com/R12WwSh)
 
 
 ![Скриншот 2 - Команды в терминале ](https://github.com/AJDragon01/TOIB_Egorov/assets/145147455/3bbe421f-7735-4099-a187-16ccd2c1698e)
 ![Скриншот 2 - Команды в терминале ](https://imgur.com/R12WwSh.jpg)
-
