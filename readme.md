@@ -43,6 +43,7 @@ $ su user-{Egorov.Y.A}
 $ touch /home/super-{Egorov.Y.A}/test_file.txt
 $ rm /home/super-{Egorov.Y.A}/test_file.txt
 
+![Снимок экрана 2023-09-30 131533](https://github.com/AJDragon01/TOIB_Egorov/assets/145147455/bac005d1-faae-4658-8942-5a5aa00d300d)
 ![Скриншот 1 - Окно программы Oracle VM VirtualBox ](https://imgur.com/a/HUDfWIX)
 ![Скриншот 2 - Команды в терминале ](https://imgur.com/R12WwSh)
 
