@@ -50,3 +50,11 @@ $ rm /home/super-{Egorov.Y.A}/test_file.txt
 
 ![Скриншот 2 - Команды в терминале ](https://github.com/AJDragon01/TOIB_Egorov/assets/145147455/3bbe421f-7735-4099-a187-16ccd2c1698e)
 ![Скриншот 2 - Команды в терминале ](https://imgur.com/R12WwSh.jpg)
+
+
+
+##  В начало 
+
+[Тык][def]
+
+[def]: https://github.com/AJDragon01/TOIB_Egorov/tree/main
