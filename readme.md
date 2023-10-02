@@ -22,3 +22,6 @@
 
    ```bash
    cd путь_к_директории_с_файлом
+
+## В начало.
+[Тык](https://github.com/AJDragon01/TOIB_Egorov/tree/practica_2) 
