@@ -35,6 +35,10 @@
 
 ![Скриншот 6](https://github.com/AJDragon01/TOIB_Egorov/assets/145147455/73d58c50-3032-4125-914b-1f7b11cafcd0)
 
+##### 4. Настройка Jupyter Hub
+
+![Скриншот 7](https://github.com/AJDragon01/TOIB_Egorov/assets/145147455/f7f31169-9f59-4e6f-b1e5-c78ccb1697bc)
+
 
 ##### 5. Включение двухфакторной аутентификации OTP
 - Включена двухфакторная аутентификация OTP через Keycloak для защищаемого приложения, согласно инструкциям [Ultimate Security](https://ultimatesecurity.pro/post/2fa/) и [MasterTheBoss](https://www.mastertheboss.com/keycloak/how-to-enable-two-factor-authentication-in-keycloak/).
