@@ -35,11 +35,16 @@
 
 ![Скриншот 6](https://github.com/AJDragon01/TOIB_Egorov/assets/145147455/73d58c50-3032-4125-914b-1f7b11cafcd0)
 
-##### 4. Настройка Jupyter Hub
+##### 5. Настройка Jupyter Hub
 
 ![Скриншот 7](https://github.com/AJDragon01/TOIB_Egorov/assets/145147455/f7f31169-9f59-4e6f-b1e5-c78ccb1697bc)
+![Скриншот 8](https://github.com/AJDragon01/TOIB_Egorov/assets/145147455/1cc7415a-8442-40db-84ad-7d5685750ff9)
+![Скриншот 9](https://github.com/AJDragon01/TOIB_Egorov/assets/145147455/f1b0207b-b47b-46d3-972f-9355a2e2b17b)
+![Скриншот 10](https://github.com/AJDragon01/TOIB_Egorov/assets/145147455/ac644e7e-a7ff-4410-bf76-a5aee8e30c20)
 
 
 ##### 5. Включение двухфакторной аутентификации OTP
 - Включена двухфакторная аутентификация OTP через Keycloak для защищаемого приложения, согласно инструкциям [Ultimate Security](https://ultimatesecurity.pro/post/2fa/) и [MasterTheBoss](https://www.mastertheboss.com/keycloak/how-to-enable-two-factor-authentication-in-keycloak/).
 
+![Скриншот 11](https://github.com/AJDragon01/TOIB_Egorov/assets/145147455/5c72d2b0-dd4b-44c0-b99c-693b9d0345e8)
+![Скриншот 12](https://github.com/AJDragon01/TOIB_Egorov/assets/145147455/ac644e7e-a7ff-4410-bf76-a5aee8e30c20)
