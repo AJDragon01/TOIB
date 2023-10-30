@@ -29,7 +29,7 @@
 
 ![Скриншот 3](https://github.com/AJDragon01/TOIB_Egorov/assets/145147455/6abf82dc-fac0-4f04-b29e-abcb22dec1a3)
 
-![Скриншот 4](https://drive.google.com/file/d/1Yl2LiCMlg2J2oZ3sZWe7ez9luSCVFB1G/view?usp=sharing)
+![Скриншот 4](https://github.com/AJDragon01/TOIB_Egorov/assets/145147455/2f3ae463-58d9-43ba-8cb6-fa5a1bf30b97)
 
 
 ##### 5. Включение двухфакторной аутентификации OTP
