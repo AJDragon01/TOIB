@@ -23,7 +23,7 @@
 - Развернуто тестовое приложение на второй виртуальной машине согласно инструкции [Introduction to IAM with Keycloak](https://kzhekov.medium.com/introduction-to-iam-with-keycloak-7b1127a16e0e).
 - Настроено подключение тестового приложения к Keycloak для аутентификации и авторизации.
 
-![Скриншот 1](https://drive.google.com/file/d/10PKQMypwmPAxL6398WPtbE3FbBB5rIRq/view?usp=sharing)
+![Скриншот 1](https://drive.google.com/file/d/10PKQMypwmPAxL6398WPtbE3FbBB5rIRq/view)
 
 ![Скриншот 2](https://drive.google.com/file/d/1qCV0jAp_D39E7U3DPOkOfmKI8fAmZMiV/view?usp=share_link)
 
