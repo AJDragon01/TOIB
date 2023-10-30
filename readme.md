@@ -47,4 +47,4 @@
 - Включена двухфакторная аутентификация OTP через Keycloak для защищаемого приложения, согласно инструкциям [Ultimate Security](https://ultimatesecurity.pro/post/2fa/) и [MasterTheBoss](https://www.mastertheboss.com/keycloak/how-to-enable-two-factor-authentication-in-keycloak/).
 
 ![Скриншот 11](https://github.com/AJDragon01/TOIB_Egorov/assets/145147455/5c72d2b0-dd4b-44c0-b99c-693b9d0345e8)
-![Скриншот 12](https://github.com/AJDragon01/TOIB_Egorov/assets/145147455/ac644e7e-a7ff-4410-bf76-a5aee8e30c20)
+![Скриншот 12](https://github.com/AJDragon01/TOIB_Egorov/assets/145147455/e5e7aac7-8208-49c9-afdf-bf4e8d4dbcdb)
