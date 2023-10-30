@@ -25,7 +25,7 @@
 
 ![Скриншот 1](https://github.com/AJDragon01/TOIB_Egorov/assets/145147455/c81addf0-87cb-442b-86b3-18131b0caca8)
 
-![Скриншот 2](https://drive.google.com/file/d/1qCV0jAp_D39E7U3DPOkOfmKI8fAmZMiV/view?usp=share_link)
+![Скриншот 2](https://imgur.com/a/DxS0vm1)
 
 ![Скриншот 3](https://drive.google.com/file/d/1NRJK_UZ7bteQmPKqJucDOmVv9S8lbtIj/view?usp=sharing)
 
