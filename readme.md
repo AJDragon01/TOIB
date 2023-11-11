@@ -181,3 +181,6 @@ fig.suptitle('Log Data Analysis')
 # Покажите графики
 plt.show()
 ```
+
+#В начало
+[Тык](https://github.com/AJDragon01/TOIB_Egorov/tree/main)
