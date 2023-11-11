@@ -11,8 +11,9 @@
 
 1. [Практика 1 ](https://github.com/AJDragon01/TOIB_Egorov/tree/practica_1) 
 2. [Практика 2](https://github.com/AJDragon01/TOIB_Egorov/tree/practica_2) 
-3. [Лабораторная работа 1](https://github.com/AJDragon01/TOIB_Egorov/tree/lab_1) 
-4. [Практика 4](https://github.com/AJDragon01/TOIB_Egorov/blob/practica_3/practic4/readme.md.md)
+3. [Практика 3](https://github.com/AJDragon01/TOIB_Egorov/blob/practica_3/practic4/readme.md.md)
+4. [Лабораторная работа 1](https://github.com/AJDragon01/TOIB_Egorov/tree/lab_1) 
+5. [Лабораторная работа 2](https://github.com/AJDragon01/TOIB_Egorov/tree/lab_2)
 
 В этом репозитории вы найдете мои работы и проекты, которые я создаю в процессе обучения. Постепенно, я надеюсь поделиться с вами всеми своими достижениями и проектами.
 
